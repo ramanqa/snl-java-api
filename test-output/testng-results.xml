@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="116" passed="116" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-11T17:38:22 IST" name="Default suite" finished-at="2020-11-11T17:38:24 IST" duration-ms="2521">
+    <groups>
+    </groups>
+    <test started-at="2020-11-11T17:38:22 IST" name="Default test" finished-at="2020-11-11T17:38:24 IST" duration-ms="2521">
+      <class name="com.qainfotech.tap.training.snl.api.BoardTest">
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="New_Player_Postition_Must_Be_Zero()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="New_Player_Postition_Must_Be_Zero" finished-at="2020-11-11T17:38:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_Player_Postition_Must_Be_Zero -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_Player_Is_Deleted()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="check_If_Player_Is_Deleted" finished-at="2020-11-11T17:38:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_Player_Is_Deleted -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:22 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:22 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:22 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:22 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:23 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:23 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method signature="check_If_rollDice_Produces_Result_Between_1_And_6()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_rollDice_Produces_Result_Between_1_And_6" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_rollDice_Produces_Result_Between_1_And_6 -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_If_toString_Returns_String()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_If_toString_Returns_String" finished-at="2020-11-11T17:38:24 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_If_toString_Returns_String -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="check_getData_Returns_Data()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="check_getData_Returns_Data" finished-at="2020-11-11T17:38:24 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_getData_Returns_Data -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="initialize_Board_An_Empty_Board()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="initialize_Board_An_Empty_Board" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_Board_An_Empty_Board -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="register_Player_Should_Add_New_Player_To_The_Board()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="register_Player_Should_Add_New_Player_To_The_Board" finished-at="2020-11-11T17:38:24 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_Player_Should_Add_New_Player_To_The_Board -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+        <test-method is-config="true" signature="create_Random_UUID()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="create_Random_UUID" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Random_UUID -->
+        <test-method signature="register_Player_Should_Throw_Exception_When_Player_With_Same_Name_Exists()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="register_Player_Should_Throw_Exception_When_Player_With_Same_Name_Exists" finished-at="2020-11-11T17:38:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_Player_Should_Throw_Exception_When_Player_With_Same_Name_Exists -->
+        <test-method is-config="true" signature="delete_All_Board_Files()[pri:0, instance:com.qainfotech.tap.training.snl.api.BoardTest@36d585c]" started-at="2020-11-11T17:38:24 IST" name="delete_All_Board_Files" finished-at="2020-11-11T17:38:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_All_Board_Files -->
+      </class> <!-- com.qainfotech.tap.training.snl.api.BoardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

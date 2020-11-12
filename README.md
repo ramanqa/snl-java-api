@@ -1,4 +1,4 @@
-# Snake and Ladders JAVA API
+ Snake and Ladders JAVA API
 
 ## Requirements
  - JDK 1.8+
